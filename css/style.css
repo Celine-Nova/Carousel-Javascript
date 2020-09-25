@@ -12,9 +12,6 @@ img{
    display: none;
    max-width: 700px;
    max-height: 400px; 
-   /* position: relative;
-   left: 40%;
-   margin-top: 50px; */
 }
 button{
    width: 40px;
@@ -28,7 +25,9 @@ li{
    margin: 10px;
    padding: 5px;
 }
-
 #counter{
 text-align: center;
+}
+#copyright{
+   text-align: center;
 }
